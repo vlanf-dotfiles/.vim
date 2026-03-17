@@ -6,4 +6,4 @@ set relativenumber
 set incsearch
 set modeline
 
-colorscheme lunaperche
+colorscheme industry
